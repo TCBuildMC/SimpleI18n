@@ -3,7 +3,7 @@ dependencies {
         transitive false
     }
 
-    api "commons-io:commons-io:2.16.1"
+    api "commons-io:commons-io:2.18.0"
 }
 
 publishing {
