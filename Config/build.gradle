@@ -1,8 +1,8 @@
 dependencies {
-    implementation "com.fasterxml.jackson.core:jackson-databind:2.16.0"
-    implementation "com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.16.0"
-    implementation "com.fasterxml.jackson.dataformat:jackson-dataformat-toml:2.16.0"
-    implementation "com.fasterxml.jackson.dataformat:jackson-dataformat-properties:2.16.0"
+    implementation "com.fasterxml.jackson.core:jackson-databind:2.18.2"
+    implementation "com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.18.2"
+    implementation "com.fasterxml.jackson.dataformat:jackson-dataformat-toml:2.18.2"
+    implementation "com.fasterxml.jackson.dataformat:jackson-dataformat-properties:2.18.2"
     implementation "com.google.code.gson:gson:2.11.0"
     implementation "com.alibaba.fastjson2:fastjson2:2.0.52"
     implementation "blue.endless:jankson:1.2.3"
